@@ -2,6 +2,6 @@ Origin: MaterialgramRepo
 Label: MaterialgramRepo
 Suite: stable
 Codename: stable
-Architectures: all
+Architectures: amd64
 Components: main
 Description: Materialgram unofficial APT repository for Debian-based distributions
